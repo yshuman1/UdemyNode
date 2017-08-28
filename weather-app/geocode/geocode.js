@@ -22,4 +22,6 @@ var geocodeAddress = (address, callback) => {
     });
 };
 
+https://api.darksky.net/forecast/bda8dc00a416ee094927fd6b89a19565/37.9649458,-121.7232161
+
 module.exports.geocodeAddress = geocodeAddress;
